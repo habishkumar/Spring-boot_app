@@ -8,6 +8,7 @@ public class Healthcheackup {
 	@GetMapping("/health-cheakup")
 	public String heathcheakup() {
 		return"ok";
+		//redfbhk,jkkjdgghf
 	}
 
 }
